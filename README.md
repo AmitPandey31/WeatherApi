@@ -3,6 +3,6 @@ This is a Weather App, which is made using HTML, CSS & JavaScript. It is fetchin
 
 Preview - 
 
-<img width="586" alt="WeatherApp" src="https://github.com/AmitPandey31/WeatherApi/assets/88220698/985cca9d-3eb1-4a85-a9b8-36b745ff7438">
+<img width="1078" alt="WeatherApp" src="https://github.com/AmitPandey31/WeatherApi/assets/88220698/5bb17ab6-f34f-4172-a4ff-3ba00e45fb68">
 
 Live Link - https://weatherapi-javascript.netlify.app/
